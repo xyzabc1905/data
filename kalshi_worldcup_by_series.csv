@@ -1,0 +1,89 @@
+series_ticker,series_title,volume_usd_notional
+KXWCGAME,World Cup Game,1112429548.1299999
+KXMENWORLDCUP,Men's World Cup winner,359441416.33
+KXWCTOTAL,World Cup Total,144420248.06
+KXWCSPREAD,World Cup Spread,127143402.34
+KXWCSCORE,World Cup Correct Score,47138467.05
+KXWCBTTS,World Cup BTTS,34054297.15
+KXWCTEAMTOTAL,World Cup Team Total,33294724.69
+KXWCGOAL,World Cup Goal,29814707.64
+KXWC1H,World Cup 1st Half,27456922.259999998
+KXWC1HTOTAL,World Cup 1st Half Total,22154270.14
+KXWC1HSPREAD,World Cup First Half Spread,13536972.98
+KXWCCORNERS,World Cup Corners,11578524.11
+KXWCTCORNERS,World Cup Team Corners,10372018.18
+KXWCGROUPWIN,World Cup Group Winner,8429454.22
+KXWCROUND,World Cup Reach Round,7595121.56
+KXWCGOALLEADER,World Cup Goal Leader,6897367.77
+KXWC1HBTTS,World Cup 1st Half BTTS,4972133.47
+KXWCFTTS,World Cup Team To Score First,4809123.42
+KXWCSOA,World Cup Score or Assist,4099170.85
+KXWCGROUPQUAL,World Cup Group Qualifiers,3116316.57
+KXWC1HSCORE,World Cup 1st Half Score,2991857.24
+KXWCSTAGEOFELIM,World Cup Stage of Elimination,2622132.9
+KXWCAST,World Cup Assists,2466918.04
+KXWCFIRSTGOAL,World Cup First Goal,2338263.54
+KXWC2H,World Cup 2nd Half Winner,1594527.94
+KXWCAWARD,World Cup Award,1592940.6300000001
+KXWCCONTINENT,World Cup Continent,1382814.54
+KXWC2HTOTAL,World Cup 2nd Half Total,1080445.41
+KXWC2HSPREAD,World Cup Second Half Spread,1059330.32
+KXWCSQUAD,World Cup Squad,1047655.21
+KXWCGROUPORDER,World Cup Group Exact Order,931727.51
+KXWCFURTHESTADVANCING,Furthest Advancing Country from World Cup Region,820476.86
+KXWC2HBTTS,World Cup 2nd Half BTTS,819551.74
+KXWCGROUPBOTTOM,Group Bottom Finisher,512816.96
+KXWC3RDPLACE,World Cup 3rd Place Finisher,281113.87
+KXWCTEAMLEADGOAL,World Cup Team Top Scorer,253266.1
+KXWCIRAN,Iran World Cup,251246.2
+KXWCGSGOALS,World Cup Group Stage Goals,247948.43
+KXWCGROUPWINNER,World Cup Group to Win,233611.9
+KXWCTOTALGOAL,World Cup Total Goals,215845.58
+KXWCFIFATOP10,World Cup FIFA Top 10,185292.78999999998
+KXWCBESTHOST,World Cup Best Performing Host Nation,168021.22999999998
+KXWCTEAMFIRSTGOAL,World Cup Team First Goal,150173.3
+KXWCMESSIRONALDO,Goal Contributions Messi and Ronaldo,140456.63999999998
+KXWCTEAMGOALS,World Cup Team Goals,139135.23
+KXWCSTAGE,World Cup Furthest Stage Advanced,118520.92
+KXWC1STTIMEWIN,World Cup First Time Winner,109074.98
+KXWCNOEURSA,World Cup Any Country not in Europe or South America to Win,92670.69
+KXWCGROUPGOALS,Group Stage Goals,86061.48
+KXSOCCERPLAYMESSI,Messi World Cup,77605.44
+KXWCGSUNDEFEATED,World Cup Group Stage Undefeated,66496.58
+KXWCTEAM1STGOAL,World Cup Country First Goal,62981.96
+KXWCTEAMH2H,World Cup Team Head to Head,61635.07
+KXWCGOALIEGOAL,Goalie Goal in World Cup,56222.92
+KXFIFAUSPULL,FIFA us pull,45405.88
+KXWCWINGROUP,World Cup Win Group,43455.39
+KXSOCCERPLAYCRON,Cristiano Ronaldo world cup,39771.32
+KXFIFAUSPULLGAME,FIFA US pull game,38302.33
+KXWCPLAYERGOALS,World Cup Player Goals,34386.409999999996
+KXWCTEAMTOTALGOALS,World Cup Tournament Goals,30305.25
+KXWCLOCATION,World Cup Game Location,25315.12
+KXWCHATTRICK,World Cup Hat Trick,21477.49
+KXWCGAMEGOALS,World Cup Highest Scoring Game,16453.48
+KXWCHOSTKO,World Cup All Host Nations to Reach Knockout Round,15458.54
+KXWCFASTESTGOAL,World Cup Fastest Goal,11505.33
+KXWCEVERYTEAMGOAL,World Cup Every Team to Score a Goal,10235.71
+KXWCREGIONKO,World Cup Region Teams to Reach Knockout Stage,9472.39
+KXWCKOPENALTIES,World Cup Matches to go to Penalties,7230.46
+KXWCGOLDENBOOTCLEAT,Golden Boot Cleats,5931.79
+KXPLAYWC,Player World Cup,4862.57
+KXWCGOALCOMBO,Player Group Goals,3394.84
+KXWCGROUPWINELIM,World Cup Group Winners to be Eliminated in Round of 32,3121.41
+KXWCWINNERTRAIL,World Cup Winner to Trail in a Match,2656.08
+KXWCGOALCOUNT,World Cup Goal Count,2653.32
+KXWCGOALSALLOWED,World Cup Goals Allowed,2367.7799999999997
+KXWCGROUPPTS,World Cup Group Points,1618.76
+KXWCMBAPPEGOALLEADER,Mbappe to Break the World Soccer Cup All-Time Goals Record,1274.93
+KXWCFIRSTSONG,what will be the first song sung at the world cup song,1155.92
+KXWCMESSIMBAPPE,Goals Messi and Mbappe,1026.92
+KXWCGOALEVERYGAME,World Cup Goal in Every Game,987.95
+KXWCGOALIEPEN,Goalie Penalty Goal in World Cup,831.12
+KXWCOLIMPICO,World Cup Olimpico Goal,560.67
+KXWCLONGESTPEN,World Cup Longest Penalty Shootout,523.62
+KXWC3RDPLACEQUAL,World Cup 3rd Place Qualification,30.0
+KXWCFREEKICKGOAL,World Cup Free Kick Goal,24.19
+KXWCTEAMSINGAME,World Cup Teams in Game,9.01
+KXWCCLUBGOALS,World Cup Club Goals,0.0
+KXWCHOST,World Soccer Cup Host Country,0.0
